@@ -1,1 +1,1 @@
-# spring-boot-sample
+# spring-boot-java22-sample
